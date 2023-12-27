@@ -1,7 +1,7 @@
 # SMChat :  Django Chat Application
 
 ## Description
-This is a simple chat application built using Python and Django framework. Users can register, log in, and engage in real-time chat with each other.
+SMChat is a Python application built using Django, designed to facilitate group chat functionality. The application allows users to create and join chat groups, fostering communication and collaboration.
 
 ## Features
 - User registration and authentication
